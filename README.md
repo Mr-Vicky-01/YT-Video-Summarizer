@@ -2,7 +2,7 @@
 ![download](https://github.com/Mr-Vicky-01/YT-Video-Summarizer/assets/143078285/3d9f3e10-193d-4d11-8c4b-e59514c7a350)
 
 ## Overview
-This project is a YouTube video transcript summarizer that utilizes the YouTube Transcript API and Google's GenerativeAI model (specifically the "gemini-pro" model). It takes a YouTube video URL as input, extracts the transcript from the video, summarizes the content, and provides important points within 250 words.
+This project is a YouTube video transcript summarizer that utilizes the YouTube Transcript API and Google's GenerativeAI model (specifically the "gemini-pro" model). It takes a YouTube video URL as input, extracts the transcript from the video, summarizes the content, and provides important points.
 
 ## Usage
 To use the summarizer:
